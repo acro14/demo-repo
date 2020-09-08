@@ -1,2 +1,2 @@
 # DEMO
-hi, this is an demo for Github Tutorial
+hi, this is an demo for Github Tutorial!
